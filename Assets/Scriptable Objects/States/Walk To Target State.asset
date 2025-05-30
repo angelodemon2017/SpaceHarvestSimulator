@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 590121c73a866d04285a7a7c8f800d65, type: 3}
+  m_Name: Walk To Target State
+  m_EditorClassIdentifier: 
+  AvailableStates: []
+  _doneDistance: 1
+  _stateHarvesting: {fileID: 11400000, guid: 7752baa863850764f82f9ed336a05763, type: 2}
+  _uploadingState: {fileID: 11400000, guid: a69cf4d1579339746abf53e81ca9432a, type: 2}
+  _idleState: {fileID: 11400000, guid: ce0e36f5035f6c944b11894369b0ea55, type: 2}

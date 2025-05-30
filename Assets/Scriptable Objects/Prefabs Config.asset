@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29579964bbaa6764cbae9725a57e54a3, type: 3}
+  m_Name: Prefabs Config
+  m_EditorClassIdentifier: 
+  dronView: {fileID: 3859597697164869011, guid: af289656da4131d49930e6b43b74de79, type: 3}
+  baseView: {fileID: 4282644780188830071, guid: 998d15bc05d6d2b4ab4a700b50a18cac, type: 3}
+  resourceView: {fileID: 7348873104982947817, guid: e6f9c0d48d47dda4a935f9d0f4deaa42, type: 3}
